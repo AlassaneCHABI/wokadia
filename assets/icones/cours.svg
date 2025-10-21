@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_book" data-name="vuesax/bulk/book" transform="translate(-556 -188)">
+    <g id="book">
+      <path id="Vector" d="M10,2.638v16.03a1.009,1.009,0,0,1-.49-.11l-.04-.02A25.693,25.693,0,0,0,2.03,16.1l-.29-.04A2.055,2.055,0,0,1,0,14.078V2A1.967,1.967,0,0,1,2.16.008a18.757,18.757,0,0,1,7.06,2.34l.25.15A1.048,1.048,0,0,0,10,2.638Z" transform="translate(558 190.662)" fill="#292d32" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M10,2v12.07a2.055,2.055,0,0,1-1.74,1.98l-.33.04a25.461,25.461,0,0,0-7.46,2.46.885.885,0,0,1-.47.11V2.628a1.048,1.048,0,0,0,.53-.14l.17-.11A18.851,18.851,0,0,1,7.77.008h.06A1.97,1.97,0,0,1,10,2Z" transform="translate(568 190.672)" fill="#292d32"/>
+      <path id="Vector-3" data-name="Vector" d="M3,1.5H.75A.755.755,0,0,1,0,.75.755.755,0,0,1,.75,0H3a.755.755,0,0,1,.75.75A.755.755,0,0,1,3,1.5Z" transform="translate(560.75 195.74)" fill="#292d32"/>
+      <path id="Vector-4" data-name="Vector" d="M3.75,1.5h-3A.755.755,0,0,1,0,.75.755.755,0,0,1,.75,0h3A.755.755,0,0,1,4.5.75.755.755,0,0,1,3.75,1.5Z" transform="translate(560.75 198.74)" fill="#292d32"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(556 188)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

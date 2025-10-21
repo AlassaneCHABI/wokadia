@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_message-notif" data-name="vuesax/bulk/message-notif" transform="translate(-108 -252)">
+    <g id="message-notif">
+      <path id="Vector" d="M5.5,2.75A2.75,2.75,0,1,1,2.75,0,2.75,2.75,0,0,1,5.5,2.75Z" transform="translate(125.25 253.25)" fill="#292d32"/>
+      <path id="Vector-2" data-name="Vector" d="M18,6a4,4,0,0,1-4-4,3.906,3.906,0,0,1,.56-2H5A4.991,4.991,0,0,0,0,4.98v6.98a4.991,4.991,0,0,0,5,4.98H6.5a1.149,1.149,0,0,1,.8.4l1.5,1.99a1.421,1.421,0,0,0,2.4,0l1.5-1.99a1.014,1.014,0,0,1,.8-.4H15a4.991,4.991,0,0,0,5-4.98V5.44A3.906,3.906,0,0,1,18,6Z" transform="translate(110 254)" fill="#292d32" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(119 262)" fill="#292d32"/>
+      <path id="Vector-4" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(123 262)" fill="#292d32"/>
+      <path id="Vector-5" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(115 262)" fill="#292d32"/>
+      <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(108 252)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
